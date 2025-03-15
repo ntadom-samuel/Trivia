@@ -2,7 +2,7 @@
 
 Submitted by: Samuel Ntadom
 
-**Triviap** is an app that quizes people
+**Trivia** is an app that quizes people
 
 Time spent: **5** hours spent in total
 
